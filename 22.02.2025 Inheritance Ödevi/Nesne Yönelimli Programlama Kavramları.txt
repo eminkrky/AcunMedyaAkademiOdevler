@@ -1,0 +1,13 @@
+Abstract Class Nedir?
+Abstract Class yani soyut sınıf başka bir sınıf tarafından miras alınan sınıflara denir.
+Interfaceden farklı olarak içerisinde değişkenler atanmış olarak yer alabilir.
+
+Abstraction Nedir? 
+Abstraction yani soyutlama farklı classların erişebileceği özelliklerin farklı olmasına denir.
+Mesela biz bir araba sınıfı bir de motor sınıfı oluşturursak 
+araba sınıfında ön kaldırma özelliğine erişim olmaz bu özellik sadece motor için erişilebilir. 
+
+Polymorphism Nedir? 
+Polymorphism yani çok biçimlilik nesne yönelimli programlamada aynı Abstract sınıftan miras alan birden fazla sınıfta
+aynı sınıftan miras almasına rağmen methodların içeriğinin farklı olmasına denir.
+Mesela alan hesapla methodu yapacağımız zaman kare ile dairenin alanının hesaplanma yöntemi farklı olacaktır. 
