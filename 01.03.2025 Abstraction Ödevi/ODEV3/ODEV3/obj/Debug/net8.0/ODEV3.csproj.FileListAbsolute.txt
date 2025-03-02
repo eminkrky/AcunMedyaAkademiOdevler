@@ -1,0 +1,14 @@
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV3/ODEV3/bin/Debug/net8.0/ODEV3
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV3/ODEV3/bin/Debug/net8.0/ODEV3.deps.json
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV3/ODEV3/bin/Debug/net8.0/ODEV3.runtimeconfig.json
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV3/ODEV3/bin/Debug/net8.0/ODEV3.dll
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV3/ODEV3/bin/Debug/net8.0/ODEV3.pdb
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV3/ODEV3/obj/Debug/net8.0/ODEV3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV3/ODEV3/obj/Debug/net8.0/ODEV3.AssemblyInfoInputs.cache
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV3/ODEV3/obj/Debug/net8.0/ODEV3.AssemblyInfo.cs
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV3/ODEV3/obj/Debug/net8.0/ODEV3.csproj.CoreCompileInputs.cache
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV3/ODEV3/obj/Debug/net8.0/ODEV3.dll
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV3/ODEV3/obj/Debug/net8.0/refint/ODEV3.dll
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV3/ODEV3/obj/Debug/net8.0/ODEV3.pdb
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV3/ODEV3/obj/Debug/net8.0/ODEV3.genruntimeconfig.cache
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV3/ODEV3/obj/Debug/net8.0/ref/ODEV3.dll

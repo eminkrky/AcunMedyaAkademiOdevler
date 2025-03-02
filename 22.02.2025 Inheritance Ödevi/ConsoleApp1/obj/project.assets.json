@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emin/RiderProjects/22.02.2025 Inheritance Ödevi/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/22.02.2025 Inheritance Ödevi/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/emin/RiderProjects/22.02.2025 Inheritance Ödevi/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/22.02.2025 Inheritance Ödevi/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/Users/emin/.nuget/packages/",
-      "outputPath": "/Users/emin/RiderProjects/22.02.2025 Inheritance Ödevi/ConsoleApp1/obj/",
+      "outputPath": "/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/22.02.2025 Inheritance Ödevi/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/emin/.nuget/NuGet/NuGet.Config"

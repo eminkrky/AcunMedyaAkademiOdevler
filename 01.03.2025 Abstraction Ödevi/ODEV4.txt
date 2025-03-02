@@ -1,0 +1,4 @@
+Array (Dizi) Nedir?
+
+Diziler non-primitive veri tipleridir.
+Farklı değişkenleri belirli bir sıra ile bir arada tutmamızı sağlayan değişken türüdür.

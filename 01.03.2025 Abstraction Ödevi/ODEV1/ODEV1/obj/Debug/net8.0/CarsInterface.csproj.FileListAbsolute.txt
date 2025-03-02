@@ -1,0 +1,14 @@
+/Users/emin/Desktop/Acun Medya/Hafta 3/CarsInterface/CarsInterface/bin/Debug/net8.0/CarsInterface
+/Users/emin/Desktop/Acun Medya/Hafta 3/CarsInterface/CarsInterface/bin/Debug/net8.0/CarsInterface.deps.json
+/Users/emin/Desktop/Acun Medya/Hafta 3/CarsInterface/CarsInterface/bin/Debug/net8.0/CarsInterface.runtimeconfig.json
+/Users/emin/Desktop/Acun Medya/Hafta 3/CarsInterface/CarsInterface/bin/Debug/net8.0/CarsInterface.dll
+/Users/emin/Desktop/Acun Medya/Hafta 3/CarsInterface/CarsInterface/bin/Debug/net8.0/CarsInterface.pdb
+/Users/emin/Desktop/Acun Medya/Hafta 3/CarsInterface/CarsInterface/obj/Debug/net8.0/CarsInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emin/Desktop/Acun Medya/Hafta 3/CarsInterface/CarsInterface/obj/Debug/net8.0/CarsInterface.AssemblyInfoInputs.cache
+/Users/emin/Desktop/Acun Medya/Hafta 3/CarsInterface/CarsInterface/obj/Debug/net8.0/CarsInterface.AssemblyInfo.cs
+/Users/emin/Desktop/Acun Medya/Hafta 3/CarsInterface/CarsInterface/obj/Debug/net8.0/CarsInterface.csproj.CoreCompileInputs.cache
+/Users/emin/Desktop/Acun Medya/Hafta 3/CarsInterface/CarsInterface/obj/Debug/net8.0/CarsInterface.dll
+/Users/emin/Desktop/Acun Medya/Hafta 3/CarsInterface/CarsInterface/obj/Debug/net8.0/refint/CarsInterface.dll
+/Users/emin/Desktop/Acun Medya/Hafta 3/CarsInterface/CarsInterface/obj/Debug/net8.0/CarsInterface.pdb
+/Users/emin/Desktop/Acun Medya/Hafta 3/CarsInterface/CarsInterface/obj/Debug/net8.0/CarsInterface.genruntimeconfig.cache
+/Users/emin/Desktop/Acun Medya/Hafta 3/CarsInterface/CarsInterface/obj/Debug/net8.0/ref/CarsInterface.dll

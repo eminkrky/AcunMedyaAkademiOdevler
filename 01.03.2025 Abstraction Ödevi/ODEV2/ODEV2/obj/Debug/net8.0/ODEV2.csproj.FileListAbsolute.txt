@@ -1,0 +1,14 @@
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV2/ODEV2/bin/Debug/net8.0/ODEV2
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV2/ODEV2/bin/Debug/net8.0/ODEV2.deps.json
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV2/ODEV2/bin/Debug/net8.0/ODEV2.runtimeconfig.json
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV2/ODEV2/bin/Debug/net8.0/ODEV2.dll
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV2/ODEV2/bin/Debug/net8.0/ODEV2.pdb
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV2/ODEV2/obj/Debug/net8.0/ODEV2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV2/ODEV2/obj/Debug/net8.0/ODEV2.AssemblyInfoInputs.cache
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV2/ODEV2/obj/Debug/net8.0/ODEV2.AssemblyInfo.cs
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV2/ODEV2/obj/Debug/net8.0/ODEV2.csproj.CoreCompileInputs.cache
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV2/ODEV2/obj/Debug/net8.0/ODEV2.dll
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV2/ODEV2/obj/Debug/net8.0/refint/ODEV2.dll
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV2/ODEV2/obj/Debug/net8.0/ODEV2.pdb
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV2/ODEV2/obj/Debug/net8.0/ODEV2.genruntimeconfig.cache
+/Users/emin/Desktop/Acun Medya/Hafta 3/ODEV2/ODEV2/obj/Debug/net8.0/ref/ODEV2.dll
