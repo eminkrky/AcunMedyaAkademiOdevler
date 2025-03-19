@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/01.03.2025 Erişim Belirleyiciler ve Değişkenler ile Çalışma/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/emin/Desktop/Acun Medya/Hafta 4/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/01.03.2025 Erişim Belirleyiciler ve Değişkenler ile Çalışma/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/Users/emin/Desktop/Acun Medya/Hafta 4/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/Users/emin/.nuget/packages/",
-      "outputPath": "/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/01.03.2025 Erişim Belirleyiciler ve Değişkenler ile Çalışma/ConsoleApp1/ConsoleApp1/obj/",
+      "outputPath": "/Users/emin/Desktop/Acun Medya/Hafta 4/ConsoleApp1/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/emin/.nuget/NuGet/NuGet.Config"

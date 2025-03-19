@@ -1,0 +1,24 @@
+
+Namespace, kodun düzenlenmesi ve aynı isimdeki sınıfların çakışmasını önlemek için kullanılır. Örneğin:
+namespace Matematik { class Hesaplama { } }
+namespace Fizik { class Hesaplama { } }
+Bu sayede Matematik.Hesaplama ve Fizik.Hesaplama birbirine karışmaz.
+
+Namespace Kullanmanın Avantajları
+Kod Organizasyonu: Kodun düzenli olmasını sağlar.
+Çakışmaları Önler: Aynı isimdeki sınıflar farklı namespaceler kullanılabilir.
+Modülerlik: Her modül kendi namespace'i altında gruplanır.
+Okunabilirlik: Kodun nerede olduğu daha net anlaşılır.
+
+
+
+--Genişletilebilirlik konusunda çok fazla bilgim yok araştıracağım fakat bulduğum bilgiler bunlar
+Genişletilebilirlik, yazılıma yeni özellikler eklenebilmesi veya mevcut özelliklerin değiştirilebilmesidir.
+
+Genişletilebilir Yazılım Nasıl Yapılır?
+Modüler Tasarım: Kodunuzu bağımsız parçalara bölün.
+Arayüzler Kullanın: Yeni özellikler eklemek için arayüzler kullanın.
+--public interface ILogger { void Log(string message); }
+--public class FileLogger : ILogger { public void Log(string message) { } }
+Bağımlılık Enjeksiyonu: Bileşenleri gevşek bağlayın.
+Plugin Desteği: Harici eklentilerle yazılımı genişletin.

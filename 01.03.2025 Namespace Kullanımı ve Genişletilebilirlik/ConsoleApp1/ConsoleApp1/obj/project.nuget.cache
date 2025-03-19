@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pITvY3cb+QA=",
+  "dgSpecHash": "qTQjT2jisJU=",
   "success": true,
-  "projectFilePath": "/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/01.03.2025 Erişim Belirleyiciler ve Değişkenler ile Çalışma/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "projectFilePath": "/Users/emin/Desktop/Acun Medya/Hafta 4/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "/Users/emin/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
     "/Users/emin/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
