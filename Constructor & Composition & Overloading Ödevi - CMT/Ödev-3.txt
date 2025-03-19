@@ -1,0 +1,1 @@
+C#'ta Garbage Collector otomatik bellek yönetimi yapar Program çalışırken oluşturulan ve artık kullanılmayan nesneleri bellekten siler. GC hangi nesnelerin kullanıldığını takip eder, kullanılmayanları temizler ve belleği düzenler. Bu sayede geliştiriciler elle bellek temizleme işiyle uğraşmaz bellek sızıntıları önlenir ve program daha verimli çalışır. 

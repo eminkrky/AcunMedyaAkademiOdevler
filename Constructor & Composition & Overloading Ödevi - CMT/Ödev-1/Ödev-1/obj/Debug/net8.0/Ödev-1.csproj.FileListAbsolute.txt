@@ -1,0 +1,15 @@
+/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/Constructor & Composition & Overloading Ödevi - CMT/Ödev-1/Ödev-1/bin/Debug/net8.0/Ödev-1
+/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/Constructor & Composition & Overloading Ödevi - CMT/Ödev-1/Ödev-1/bin/Debug/net8.0/Ödev-1.deps.json
+/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/Constructor & Composition & Overloading Ödevi - CMT/Ödev-1/Ödev-1/bin/Debug/net8.0/Ödev-1.runtimeconfig.json
+/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/Constructor & Composition & Overloading Ödevi - CMT/Ödev-1/Ödev-1/bin/Debug/net8.0/Ödev-1.dll
+/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/Constructor & Composition & Overloading Ödevi - CMT/Ödev-1/Ödev-1/bin/Debug/net8.0/Ödev-1.pdb
+/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/Constructor & Composition & Overloading Ödevi - CMT/Ödev-1/Ödev-1/obj/Debug/net8.0/Ödev-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/Constructor & Composition & Overloading Ödevi - CMT/Ödev-1/Ödev-1/obj/Debug/net8.0/Ödev-1.AssemblyInfoInputs.cache
+/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/Constructor & Composition & Overloading Ödevi - CMT/Ödev-1/Ödev-1/obj/Debug/net8.0/Ödev-1.AssemblyInfo.cs
+/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/Constructor & Composition & Overloading Ödevi - CMT/Ödev-1/Ödev-1/obj/Debug/net8.0/Ödev-1.csproj.CoreCompileInputs.cache
+/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/Constructor & Composition & Overloading Ödevi - CMT/Ödev-1/Ödev-1/obj/Debug/net8.0/Ödev-1.sourcelink.json
+/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/Constructor & Composition & Overloading Ödevi - CMT/Ödev-1/Ödev-1/obj/Debug/net8.0/Ödev-1.dll
+/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/Constructor & Composition & Overloading Ödevi - CMT/Ödev-1/Ödev-1/obj/Debug/net8.0/refint/Ödev-1.dll
+/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/Constructor & Composition & Overloading Ödevi - CMT/Ödev-1/Ödev-1/obj/Debug/net8.0/Ödev-1.pdb
+/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/Constructor & Composition & Overloading Ödevi - CMT/Ödev-1/Ödev-1/obj/Debug/net8.0/Ödev-1.genruntimeconfig.cache
+/Users/emin/Documents/GitHub/AcunMedyaAkademiOdevler/Constructor & Composition & Overloading Ödevi - CMT/Ödev-1/Ödev-1/obj/Debug/net8.0/ref/Ödev-1.dll

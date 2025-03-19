@@ -1,0 +1,19 @@
+Generic Class’lar ve Method’lar (Boxing & Unboxing)
+
+Generic Avantajları:
+- Tip Güvenli: Hata riskini azaltır.
+- Kod Tekrarı Yok: Aynı kodu farklı tipler için tekrar yazmaya gerek yok.
+- Hızlı: Boxing/unboxing olmadığı için performans artar.
+
+Generic Sınıf ve Method:
+-Generic Sınıf: Farklı tiplerle çalışabilen sınıflar
+-Generic Method: Farklı tiplerle çalışabilen methodlar
+
+Boxing & Unboxing:
+- Boxing: Değer tipini object’e çevirme.
+- Unboxing: objecti tekrar değer tipine çevirme.
+- Performans: Boxing/unboxing yavaşlatır, generic bunu engeller.
+
+Özet:
+- Generic, daha güvenli ve hızlı kod yazmayı sağlar.
+- Boxing/unboxing performansı düşürür, generic kullanarak önlenir.
