@@ -1,0 +1,24 @@
+
+Public
+Her yerden erişilebilir.
+Örnek: Bir kafe, herkese açıktır.
+--public void kafeyeGir() { }
+
+Private
+Sadece tanımlandığı sınıf içinden erişilebilir.
+Örnek: Bir telefon sahibinin yüzünü görünce kilidini açar.
+--private void telefonuAç() { }
+
+Protected
+Sınıf ve alt sınıflardan erişilebilir.
+Örnek: Miras, sadece aile üyeleri tarafından alınır.
+--protected void MirasAl() { }
+
+Internal
+Aynı proje içinden erişilebilir.
+Örnek: Şirket içi belgeler, sadece çalışanlar için.
+--internal void BelgeOku() { }
+
+
+OOP'daki Rolü:
+Erişim belirleyiciler kapsülleme ve değişken gizleme sağlar. Sınıf içindeki verilerin nasıl ve kimler tarafından kullanılacağını kontrol eder ,kodun güvenliğini ve esnekliğini artırır.
